@@ -1,4 +1,19 @@
 .column {
-  width: 300px;
+  width: 20%;
   float: left;
+  margin: 12px;
+  border: 12px solid green;
+  padding: 4px;
+}
+
+img {
+  width: 100%;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+.column h3 {
+  font-size: 15px;
 }
